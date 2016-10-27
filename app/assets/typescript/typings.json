@@ -1,0 +1,14 @@
+{
+  "name": "WTFContextWeb",
+  "globalDependencies": {
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#e5a27ea95e47b95333784f1f0d590127b4e39a89",
+    "material-ui": "github:DefinitelyTyped/DefinitelyTyped/material-ui/material-ui.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "react-router": "github:DefinitelyTyped/DefinitelyTyped/react-router/react-router.d.ts#e5a27ea95e47b95333784f1f0d590127b4e39a89",
+    "history": "github:DefinitelyTyped/DefinitelyTyped/react-router/history.d.ts#e5a27ea95e47b95333784f1f0d590127b4e39a89",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#220716d99a77df1654fb4f6cd760dc134ffa8e89",
+    "moment-node": "github:DefinitelyTyped/DefinitelyTyped/moment/moment-node.d.ts#81b951f1ac437d1eb5ff5171a0bfa6c467634b13",
+    "moment": "github:DefinitelyTyped/DefinitelyTyped/moment/moment.d.ts#81b951f1ac437d1eb5ff5171a0bfa6c467634b13",
+    "tinycolor": "github:DefinitelyTyped/DefinitelyTyped/tinycolor/tinycolor.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1"
+  }
+}
